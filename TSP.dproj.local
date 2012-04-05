@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2007/07/28 00:15:41.000.pas,C:\Documents and Settings\NguyenHoangTrinh\My Documents\RAD Studio\Projects\Unit1.pas=C:\Documents and Settings\NguyenHoangTrinh\Desktop\Summer\Unit1.pas</Transaction>
+    <Transaction>2007/07/28 00:15:41.000.dfm,C:\Documents and Settings\NguyenHoangTrinh\My Documents\RAD Studio\Projects\Unit1.dfm=C:\Documents and Settings\NguyenHoangTrinh\Desktop\Summer\Unit1.dfm</Transaction>
+    <Transaction>2007/07/28 00:15:41.546.dproj,C:\Documents and Settings\NguyenHoangTrinh\My Documents\RAD Studio\Projects\Project1.dproj=C:\Documents and Settings\NguyenHoangTrinh\Desktop\Summer\Project1.dproj</Transaction>
+    <Transaction>2007/07/28 08:42:46.843.pas,C:\Documents and Settings\NguyenHoangTrinh\Desktop\Summer\Unit2.pas=C:\Documents and Settings\NguyenHoangTrinh\Desktop\Summer\Unewmacro.pas</Transaction>
+    <Transaction>2007/07/28 08:42:46.843.dfm,C:\Documents and Settings\NguyenHoangTrinh\Desktop\Summer\Unit2.dfm=C:\Documents and Settings\NguyenHoangTrinh\Desktop\Summer\Unewmacro.dfm</Transaction>
+    <Transaction>2007/08/11 03:27:06.750.dproj,E:\kurs3_2\Summer\Project1.dproj=E:\kurs3_2\Summer\TSP.dproj</Transaction>
+    <Transaction>2007/08/13 20:59:51.281.pas,E:\kurs3_2\Summer\Unit2.pas=E:\kurs3_2\Summer\Ureminder.pas</Transaction>
+    <Transaction>2007/08/13 20:59:51.296.dfm,E:\kurs3_2\Summer\Unit2.dfm=E:\kurs3_2\Summer\Ureminder.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
