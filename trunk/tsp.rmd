@@ -1,0 +1,86 @@
+[TITLE]
+TITLE=MyTsp
+[Link1]
+Name=HFX
+Hotkey=49224
+Action=Open a file
+Path=C:\Program Files\HFXP\hfxp.exe
+Index=1
+NumberRegister=63136
+[Link2]
+Name=C#
+Hotkey=24627
+Action=Open a file
+Path=C:\Program Files\Microsoft Visual Studio 9.0\Common7\IDE\devenv.exe
+Index=1
+NumberRegister=61417
+[Link3]
+Name=Delphi
+Hotkey=49220
+Action=Open a file
+Path=C:\Program Files\CodeGear\RAD Studio\5.0\bin\bds.exe
+Index=1
+NumberRegister=64363
+[Link4]
+Name=MediaplayerClassic
+Hotkey=49219
+Action=Open a file
+Path=C:\Program Files\Media Player Classic\mplayerc.exe
+Index=1
+NumberRegister=56118
+[Link5]
+Name=Win Messenger
+Hotkey=49229
+Action=Open a file
+Path=C:\Program Files\WinMessenger\WinMesgr.exe
+Index=1
+NumberRegister=64645
+[Link6]
+Name=Winamp
+Hotkey=49239
+Action=Open a file
+Path=C:\Program Files\Winamp\winamp.exe
+Index=1
+NumberRegister=62590
+[Link7]
+Name=F Pinger
+Hotkey=49222
+Action=Open a file
+Path=C:\Program Files\FPinger\FPinger.exe
+Index=1
+NumberRegister=52425
+[Link8]
+Name=NetLook
+Hotkey=49230
+Action=Open a file
+Path=F:\Source\LAN_WAN\NetLook v1.4\NetLook.exe
+Index=1
+NumberRegister=53156
+[Link9]
+Name=Programming
+Hotkey=49226
+Action=Open a folder
+Path=J:\Programming2
+Index=2
+NumberRegister=53783
+[Link10]
+Name=SanPeterburg
+Hotkey=49235
+Action=Open a file
+Path=C:\Program Files\SpbDic\Dic.exe
+Index=1
+NumberRegister=58778
+[Link11]
+Name=Lingvo
+Hotkey=49228
+Action=Open a file
+Path=C:\Program Files\ABBYY Lingvo x5\Lingvo.exe
+Index=1
+NumberRegister=60281
+[Link12]
+Name=SQL
+Hotkey=24659
+Action=Open a file
+Path=H:\Program Files\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE\Ssms.exe
+Index=1
+NumberRegister=62962
