@@ -1,0 +1,2 @@
+- Develop a "Reminder" program and integrate into the TSP-Hotkey-manager
+- Develop a "Vocabulary Trainer" program and integrate into the TSP-Hotkey-manager
