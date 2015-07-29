@@ -1,0 +1,1 @@
+This program allows users to call any application using hotkey in Microsoft Windows.
